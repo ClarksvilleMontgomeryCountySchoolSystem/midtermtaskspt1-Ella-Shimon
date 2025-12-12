@@ -26,7 +26,7 @@ full_twenties = balance // 20
 remaining_dollars = balance % 20
 
 # Display results with f-strings
-print (f"Account Holder: {account_holder}")
-print (f"Remaining Balance: ${balance}")
-print (f"Full $20 Bills: {full_twenties}")
-print (f"Remaining Dollars: ${remaining_dollars}")
+print(f"Account Holder: {account_holder}")
+print(f"Remaining Balance: ${balance}")
+print(f"Full $20 Bills: {full_twenties}")
+print(f"Remaining Dollars: ${remaining_dollars}")
